@@ -1,2 +1,2 @@
 # Codsoft
-simple projects using python(django framework)
+python programming projects using python(django framework)
